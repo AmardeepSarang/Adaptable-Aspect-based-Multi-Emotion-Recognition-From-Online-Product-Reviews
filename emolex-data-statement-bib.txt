@@ -1,0 +1,8 @@
+@misc{mohammad2020practical,
+      title={Practical and Ethical Considerations in the Effective use of Emotion and Sentiment Lexicons}, 
+      author={Saif M. Mohammad},
+      year={2020},
+      eprint={2011.03492},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
